@@ -1,0 +1,25 @@
+{
+  "name": "grunt-update-contributors",
+  "version": "0.0.0",
+  "description": "Update and commit contributors in JSON files",
+  "bugs": {
+    "url": "https://github.com/Xiphe/grunt-update-contributors/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Xiphe/grunt-update-contributors.git"
+  },
+  "author": "Vojta Jína <vojta.jina@gmail.com>",
+  "maintainers": [
+    "Hannes Diercks <github@xiphe.net>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bump": "0.0.16",
+    "grunt-npm": "0.0.2"
+  }
+}
