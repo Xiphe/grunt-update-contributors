@@ -1,6 +1,6 @@
 {
   "name": "grunt-update-contributors",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Update and commit contributors in JSON files",
   "bugs": {
     "url": "https://github.com/Xiphe/grunt-update-contributors/issues"
